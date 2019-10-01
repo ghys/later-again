@@ -5,7 +5,7 @@
  * Useful constants for dealing with time conversions.
  */
 
-const constants = {}
+let constants = {}
 
 module.exports = constants
 
